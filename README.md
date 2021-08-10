@@ -6,7 +6,7 @@ Player moves/rotates as an input
 
 Board shows his position on 5x5 grid
 
-Some unittests were written to demonstrate some limitations
+Unittests were written to demonstrate the limitations
 
 ## Usage
 Issue following
